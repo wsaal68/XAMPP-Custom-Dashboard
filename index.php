@@ -67,7 +67,7 @@ hr{border:none;border-top:1px solid var(--border);margin:24px 0}
         <path d="M16 20 L24 44 L32 20 L40 44 L48 20"
               fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
-      XAMPP Custom Dashboard <span class="small">by Wolle Saal</span>
+      XAMPP Custom Dashboard <span class="small">W. Saal</span>
     </h1>
     <div class="links">
               <a class="btn" href="/index.php?action=phpinfo" target="_blank" rel="noopener">phpinfo()</a>
