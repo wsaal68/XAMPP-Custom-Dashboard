@@ -1,8 +1,8 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-# XAMPP-Custom-Dashboard
+# Custom-Dashboard
 
-Übersichtliches, kleines Dashboard für lokale XAMPP-Entwicklungsprojekte.
+Übersichtliches, kleines Dashboard für lokale XAMPP-Entwicklungsprojekte bzw. Synology Web Station.
 
 ## Beschreibung
 Dieses Projekt stellt ein UI bereit, das lokale Ordner unterhalb von htdocs scannt und als "Projekte" anzeigt. Die Oberfläche bietet Suche, Sortierung, Filter (Alle / Favoriten / Ignorierte), Theme-Umschaltung (Hell/Dunkel) sowie schnelle Links zu phpinfo(), phpMyAdmin und dem XAMPP-Dashboard.
